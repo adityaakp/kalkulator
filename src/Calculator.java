@@ -30,7 +30,7 @@ public class Calculator {
                 break;
             }
         }
-        return (f >= 0);
+        return (f >= 10);
     }
 
     private static int findOp(char ch) {
